@@ -6,7 +6,7 @@ During the past decades, numerous efforts have already been paid to the field of
 
 To this end, we first establish a challenging labelled micro lip reading dataset termed HUST-LMLR. It consists of 399 speech video clip samples, which are captured from the unconstrained movies to reveal the characteristics of “micro lip reading" in the wild. To our knowledge, HUST-LMLR is the first micro lip reading dataset that involves the spatial-temporal sequence information.  This pic
 
-<img src="images/Figure1.jpg" width = "561" align=center />
+<div align="center"><img src="images/Figure1.jpg" width = "561" align=center /></div>
 
 shows some snapshots of normal speaking from well-known LRS2 and micro speaking from our HUST-LMLR dataset. We can see that for lack of strength, the lip movements of the patient in our dataset are tinier compared with normal speaking. Moreover, by using cosine similarity as measurement, appearance feature extracted within ROI between two frames varies in a much smaller range. In addition, by considering some practical application scenarios with dramatic variations on human pose, illumination, imaging viewpoint and distance, our HUST-LMLR is also a dataset "in the wild". The difficulties mentioned above actually impose great challenges to accurate micro lip reading.
 
