@@ -2,7 +2,7 @@
 
 Lip reading is defined as the ability to recognize whatis being said from visual information alone. In spite ofan impressive skill but very challenging task, lip reading hasbeen widely applied to such situations: improving obviousperformances where the acoustic signal is noisy, resolvingspeech perception problems for persons with hearing impair-ment, generating lip-passwords for liveness detection for itshigh dynamic characteristics, etc.
 
-During the past decades, numerous efforts have already been paid to the field of lip reading. Nevertheless, most of them are proposed without considering micro lip reading cases which are quite common in our daily lives: giving last words in hospital, speaking with the aged or patients with ALS (Amyotrophic Lateral Sclerosis), whispering in the wild, or even just a habit of speaking, etc. Based on these situations, micro lip reading is proposed by us, which is defined as recognizing what is being spoken through much tinier lip movements compared with normal speaking. Meanwhile, the existing lip reading datasets are generally captured under speaking conditions with relative normal lip movements, with or without the audio input. However, towards some practical application scenarios, acoustical signals can hardly be perceived and recognized for supporting. The effective micro lip reading approach in the wild is essentially required to ensure the performance. 
+During the past decades, numerous efforts have already been paid to the field of lip reading. Nevertheless, most of them are proposed without considering micro lip reading cases which are quite common in our daily lives: giving last words in hospital, speaking with the aged or patients with ALS (Amyotrophic Lateral Sclerosis), whispering in the wild, or even just a habit of speaking, etc. Based on these situations, micro lip reading is proposed by us, which is defined as recognizing what is being spoken through much tinier lip movements compared with normal speaking. Meanwhile, the existing lip reading datasets are generally captured under speaking conditions with relative normal lip movements, with or without the audio input. However, towards some practical application scenarios, acoustical signals can hardly be perceived and recognized for supporting. The effective micro lip reading approach in the wild is essentially required to ensure the performance.
 
 To this end, we first establish a challenging labelled micro lip reading dataset termed HUST-LMLR. It consists of 399 speech video clip samples, which are captured from the unconstrained movies to reveal the characteristics of “micro lip reading" in the wild. To our knowledge, HUST-LMLR is the first micro lip reading dataset that involves the spatial-temporal sequence information.  This pic
 
@@ -14,30 +14,41 @@ shows some snapshots of normal speaking from well-known LRS2 and micro speaking 
 
 Coming Soon...
 
+# Samples
 
-
-# Successful Samples
-
-Coming Soon...
-
-# Video
+## Medical Support
 
 <div align="center">
 
 <video src="videos/Medical_Support.mp4"  alt="Medical Support" width = "458" height = "263" align=center controls/>
 
 </div>
+## Human-computer interaction
+
 <div align="center">
-<video src="videos/HCI1.mp4"  alt="HCI1" width = "458" height = "263" align=center controls/>
+<video src="videos/HCI1.mp4"  alt="Human–computer interaction" width = "458" height = "263" align=center controls/>
 </div>
+
+## Assisted Driving
 
 <div align="center">
 <video src="videos/HCI2.mp4"  alt="HCI2" width = "458" height = "263" align=center controls/>
 </div>
 
+## In the wild scenario
+
 <div align="center">
-<video src="videos/AssistedDriving.mp4"  alt="Assisted Driving" width = "458" height = "263" align=center controls/>
+<video src="videos/In the wild scenario.mp4"  alt="In the wild scenario" width = "458" height = "263" align=center controls/>
 </div>
 
+## Tiny lip movement scenario
 
+<div align="center">
+<video src="videos/Tiny lip movement scenario.mp4"  alt="Tiny lip movement scenario" width = "458" height = "263" align=center controls/>
+</div>
 
+## Mixed scenario
+
+<div align="center">
+<video src="videos/Mixed scenario.mp4"  alt="Mixed scenario" width = "458" height = "263" align=center controls/>
+</div>
