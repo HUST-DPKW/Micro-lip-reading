@@ -20,35 +20,40 @@ Coming Soon...
 
 <div align="center">
 
-<video src="videos/Medical_Support.mp4"  alt="Medical Support" width = "458" height = "263" align=center controls/>
+<video src="videos/medical_support.mp4"  alt="Medical Support" width = "458" height = "263" align=center controls/>
 
 </div>
+
 ## Human-computer interaction
 
 <div align="center">
 <video src="videos/HCI1.mp4"  alt="Human–computer interaction" width = "458" height = "263" align=center controls/>
 </div>
 
+<div align="center">
+<video src="videos/HCI2.mp4"  alt="Human–computer interaction" width = "458" height = "263" align=center controls/>
+</div>
+
 ## Assisted Driving
 
 <div align="center">
-<video src="videos/HCI2.mp4"  alt="HCI2" width = "458" height = "263" align=center controls/>
+<video src="videos/AssistedDriving.mp4"  alt="Assisted Driving" width = "458" height = "263" align=center controls/>
 </div>
 
 ## In the wild scenario
 
 <div align="center">
-<video src="videos/In the wild scenario.mp4"  alt="In the wild scenario" width = "458" height = "263" align=center controls/>
+<video src="videos/In_the_wild_scenario.mp4"  alt="In the wild scenario" width = "458" height = "263" align=center controls/>
 </div>
 
 ## Tiny lip movement scenario
 
 <div align="center">
-<video src="videos/Tiny lip movement scenario.mp4"  alt="Tiny lip movement scenario" width = "458" height = "263" align=center controls/>
+<video src="videos/tiny_lip_movement_scenario.mp4"  alt="Tiny lip movement scenario" width = "458" height = "263" align=center controls/>
 </div>
 
 ## Mixed scenario
 
 <div align="center">
-<video src="videos/Mixed scenario.mp4"  alt="Mixed scenario" width = "458" height = "263" align=center controls/>
+<video src="videos/mixed_scenario.mp4"  alt="Mixed scenario" width = "458" height = "263" align=center controls/>
 </div>
