@@ -22,7 +22,7 @@ Coming Soon...
 <video src="videos/Medical_Support.mp4"  alt="Medical Support" width = "458" height = "263" align=center controls/>
 </div>
 
-## Human-computer interaction
+## Human-Computer Interaction
 
 <div align="center">
 <video src="videos/HCI1.mp4"  alt="Human–computer interaction" width = "458" height = "263" align=center controls/>
