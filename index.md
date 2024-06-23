@@ -25,11 +25,12 @@ Coming Soon...
 ## Human-Computer Interaction
 
 <div align="center">
-<video src="videos/HCI1.mp4"  alt="Human–computer interaction" width = "458" height = "263" align=center controls/>
+<video src="videos/HCI1.mp4"  alt="Human–Computer Interaction" width = "458" height = "263" align=center controls/>
 </div>
 
+## Virtual Reality
 <div align="center">
-<video src="videos/HCI2.mp4"  alt="Human–computer interaction" width = "458" height = "263" align=center controls/>
+<video src="videos/Virtual_Reality.mp4"  alt="Virtual Reality" width = "458" height = "263" align=center controls/>
 </div>
 
 ## Assisted Driving
