@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=7c2ba4077766f9c187dcac26a528062492a6d495">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Brief introduction towards micro lip reading in the wild | Micro-lip-reading</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Brief introduction towards micro lip reading in the wild" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is a brief intorduction of our work towards micro lip reading in the wild" />
+<meta property="og:description" content="This is a brief intorduction of our work towards micro lip reading in the wild" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Micro-lip-reading" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Brief introduction towards micro lip reading in the wild" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"This is a brief intorduction of our work towards micro lip reading in the wild","headline":"Brief introduction towards micro lip reading in the wild","name":"Micro-lip-reading","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+            <a id="forkme_banner" href="https://github.com/HUST-DPKW/Micro-lip-reading">View on GitHub</a>
+          
+
+          <h1 id="project_title">Micro-lip-reading</h1>
+          <h2 id="project_tagline">This is a brief intorduction of our work towards micro lip reading in the wild</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1 id="brief-introduction-towards-micro-lip-reading-in-the-wild">Brief introduction towards micro lip reading in the wild</h1>
+
+<p>Lip reading is defined as the ability to recognize whatis being said from visual information alone. In spite ofan impressive skill but very challenging task, lip reading hasbeen widely applied to such situations: improving obviousperformances where the acoustic signal is noisy, resolvingspeech perception problems for persons with hearing impair-ment, generating lip-passwords for liveness detection for itshigh dynamic characteristics, etc.</p>
+
+<p>During the past decades, numerous efforts have already been paid to the field of lip reading. Nevertheless, most of them are proposed without considering micro lip reading cases which are quite common in our daily lives: giving last words in hospital, speaking with the aged or patients with ALS (Amyotrophic Lateral Sclerosis), whispering in the wild, or even just a habit of speaking, etc. Based on these situations, micro lip reading is proposed by us, which is defined as recognizing what is being spoken through much tinier lip movements compared with normal speaking. Meanwhile, the existing lip reading datasets are generally captured under speaking conditions with relative normal lip movements, with or without the audio input. However, towards some practical application scenarios, acoustical signals can hardly be perceived and recognized for supporting. The effective micro lip reading approach in the wild is essentially required to ensure the performance.</p>
+
+<p>To this end, we first establish a challenging labelled micro lip reading dataset termed HUST-LMLR. It consists of 399 speech video clip samples, which are captured from the unconstrained movies to reveal the characteristics of “micro lip reading” in the wild. To our knowledge, HUST-LMLR is the first micro lip reading dataset that involves the spatial-temporal sequence information.  This pic</p>
+
+<div align="center"><img src="images/Figure1.jpg" width="458" height="263" alt="HUST-LMLR" align="center" /></div>
+
+<p>shows some snapshots of normal speaking from well-known LRS2 and micro speaking from our HUST-LMLR dataset. We can see that for lack of strength, the lip movements of the patient in our dataset are tinier compared with normal speaking. Moreover, by using cosine similarity as measurement, appearance feature extracted within ROI between two frames varies in a much smaller range. In addition, by considering some practical application scenarios with dramatic variations on human pose, illumination, imaging viewpoint and distance, our HUST-LMLR is also a dataset “in the wild”. The difficulties mentioned above actually impose great challenges to accurate micro lip reading.</p>
+
+<h1 id="dataset">Dataset</h1>
+
+<p>HUST-LMLR dataset is available at <a href="https://pan.baidu.com/s/10ZXbwkeh5H1pfsRE-Vve7g?pwd=v8e2">HUST-LMLR</a></p>
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">Micro-lip-reading maintained by <a href="https://github.com/HUST-DPKW">HUST-DPKW</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
