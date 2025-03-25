@@ -8,4 +8,4 @@ To this end, we first establish a challenging labelled micro lip reading dataset
 
 # Dataset
 
-HUST-LMLR dataset is available at [HUST-LMLR](https://pan.baidu.com/s/10ZXbwkeh5H1pfsRE-Vve7g?pwd=v8e2)
+HUST-LMLR dataset is available at [BaiduNetDisk](https://pan.baidu.com/s/10ZXbwkeh5H1pfsRE-Vve7g?pwd=v8e2) or [GoogleDrive](https://drive.google.com/drive/folders/15Je1b81EefwotiEs9UdSt9F6x7_JIgyI?usp=sharing).
